@@ -1,0 +1,10 @@
+{
+    "request":{
+        "method":"GET",
+        "url":"/user/3"
+    },
+    "response":{
+        "status":203,
+        "body":"Hello from user 3 Non-Authoritative Information"
+    }
+}

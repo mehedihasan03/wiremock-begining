@@ -1,0 +1,10 @@
+{
+    "request":{
+        "method":"GET",
+        "url":"/user/4"
+    },
+    "response":{
+        "status":500,
+        "body":"Hello from user 4 No Content"
+    }
+}
